@@ -1,0 +1,61 @@
+
+runAni.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+running (1)
+  rotate: false
+  xy: 0, 0
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+running (2)
+  rotate: false
+  xy: 128, 0
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+running (3)
+  rotate: false
+  xy: 256, 0
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+running (4)
+  rotate: false
+  xy: 384, 0
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+running (5)
+  rotate: false
+  xy: 512, 0
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+running (6)
+  rotate: false
+  xy: 640, 0
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+running (7)
+  rotate: false
+  xy: 768, 0
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+running (8)
+  rotate: false
+  xy: 896, 0
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1

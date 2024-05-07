@@ -1,0 +1,61 @@
+
+jumpAni.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jumping 
+  rotate: false
+  xy: 1, 133
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+jumping 
+  rotate: false
+  xy: 1, 67
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+jumping 
+  rotate: false
+  xy: 131, 133
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+jumping 
+  rotate: false
+  xy: 1, 1
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+jumping 
+  rotate: false
+  xy: 131, 67
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+jumping 
+  rotate: false
+  xy: 261, 133
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+jumping (7)
+  rotate: false
+  xy: 131, 1
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+jumping 
+  rotate: false
+  xy: 261, 67
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
